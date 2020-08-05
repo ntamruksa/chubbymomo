@@ -2,12 +2,12 @@ import Nav from './Nav'
 
 const Header = () => (
   <div className="">
-    <div className="bar">
+    {/* <div className="bar">
       <Nav />
     </div>
     <div className="sub-bar">
       <p>Search</p>
-    </div>
+    </div> */}
   </div>
 )
 
